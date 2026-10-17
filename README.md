@@ -39,11 +39,58 @@ My ambition is to build products that help people participate more confidently i
 - **Top 16 Finalist — HACKFEST: Code for Humanity (2026)**, Team MARTEX. [University announcement](https://informatika.uin-malang.ac.id/id/top-16-at-hackfest-code-for-humanity-2026/)
 - **Three articles in Maliki Interdisciplinary Journal (2025–2026):** [AI in education](https://urj.uin-malang.ac.id/index.php/mij/article/view/14567), [smart-home monitoring](https://urj.uin-malang.ac.id/index.php/mij/article/view/22188), and [programming](https://urj.uin-malang.ac.id/index.php/mij/article/view/12629).
 
-## Engineering interests
+## Tech Stack
 
-AI integration · Backend services · Source-aware knowledge systems · Developer tools · Applied machine learning
+Tools I use across product development, AI integration, and model experimentation.
 
-**Tools I work with:** Rust, Python, TypeScript, Go, C++, Kotlin, Flutter, PostgreSQL, Docker, Git, and the Model Context Protocol (MCP).
+### AI, LLMs & Model Experimentation
+
+<p>
+  <img src="./assets/stack/pytorch.svg" alt="PyTorch" height="40" />
+  <img src="./assets/stack/unsloth.svg" alt="Unsloth" height="40" />
+  <img src="./assets/stack/huggingface.svg" alt="Hugging Face" height="40" />
+  <img src="./assets/stack/ollama.svg" alt="Ollama" height="40" />
+  <img src="./assets/stack/onnx.svg" alt="ONNX" height="40" />
+  <img src="./assets/stack/mcp.svg" alt="MCP" height="40" />
+  <img src="./assets/stack/gemini.svg" alt="Gemini" height="40" />
+  <img src="./assets/stack/qwen.svg" alt="Qwen" height="40" />
+  <img src="./assets/stack/numpy.svg" alt="NumPy" height="40" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="./assets/stack/rust.svg" alt="Rust" height="40" />
+  <img src="./assets/stack/python.svg" alt="Python" height="40" />
+  <img src="./assets/stack/typescript.svg" alt="TypeScript" height="40" />
+  <img src="./assets/stack/nodejs.svg" alt="Node.js" height="40" />
+  <img src="./assets/stack/fastapi.svg" alt="FastAPI" height="40" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" height="40" />
+  <img src="./assets/stack/redis.svg" alt="Redis" height="40" />
+</p>
+
+### Web & Mobile
+
+<p>
+  <img src="./assets/stack/nextjs.svg" alt="Next.js" height="40" />
+  <img src="./assets/stack/react.svg" alt="React" height="40" />
+  <img src="./assets/stack/tailwind.svg" alt="Tailwind CSS" height="40" />
+  <img src="./assets/stack/flutter.svg" alt="Flutter" height="40" />
+  <img src="./assets/stack/dart.svg" alt="Dart" height="40" />
+  <img src="./assets/stack/kotlin.svg" alt="Kotlin" height="40" />
+</p>
+
+### Native Development & Engineering
+
+<p>
+  <img src="./assets/stack/cpp.svg" alt="C++" height="40" />
+  <img src="./assets/stack/docker.svg" alt="Docker" height="40" />
+  <img src="./assets/stack/git.svg" alt="Git" height="40" />
+  <img src="./assets/stack/actions.svg" alt="GitHub Actions" height="40" />
+  <img src="./assets/stack/linux.svg" alt="Linux" height="40" />
+</p>
+
+**Applied workflows:** MCP tool integration · Source-aware retrieval (RAG) · Local LLM inference · Model experimentation & fine-tuning · Mobile AI integration
 
 ## Let's build
 
